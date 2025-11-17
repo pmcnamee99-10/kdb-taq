@@ -1,0 +1,23 @@
+# Ignore data files
+*.csv
+*.tsv
+*.json
+*.xml
+*.txt
+
+# Ignore data directories
+data/
+datasets/
+
+# Ignore temporary files
+*.log
+*.tmp
+*.bak
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Python cache (if applicable)
+__pycache__/
+*.pyc
